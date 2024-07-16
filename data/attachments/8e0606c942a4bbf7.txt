@@ -1,0 +1,1 @@
+[32mINFO    [0m cardano_node_tests.tests.conftest:conftest.py:188 Changed CWD to '/private/tmp/nix-shell.xDCOvz/pytest-of-root/pytest-203'.
