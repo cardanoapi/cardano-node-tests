@@ -1,0 +1,2 @@
+[33mWARNING [0m cardano_node_tests.cluster_management.cluster_getter:cluster_getter.py:150 Ignoring requested cluster respin as 'DEV_CLUSTER_RUNNING' is set.
+[32mINFO    [0m cardano_clusterlib.clusterlib_klass:clusterlib_klass.py:372 Waiting for 26.80 sec for slot no 25005.

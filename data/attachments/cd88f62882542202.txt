@@ -1,1 +1,0 @@
-[32mINFO    [0m cardano_clusterlib.clusterlib_klass:clusterlib_klass.py:372 Waiting for 39.80 sec for slot no 27005.

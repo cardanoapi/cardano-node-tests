@@ -1,0 +1,2 @@
+[32mINFO    [0m cardano_node_tests.tests.conftest:conftest.py:197 Changed CWD to '/private/tmp/nix-shell.nbf4w9/pytest-of-root/pytest-3'.
+[32mINFO    [0m cardano_clusterlib.clusterlib_klass:clusterlib_klass.py:372 Waiting for 31.60 sec for slot no 23005.
